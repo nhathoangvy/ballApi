@@ -1,0 +1,16 @@
+{
+    "Invalid authoricate or expired logger, please login again":"Quá phiên đăng nhập, vui lòng thử lại",
+    "This user picked up this match": "Bạn đã đặt cược",
+    "Match have been not playing yet":"Trận đấu chưa bắt đầu",
+    "Error !" : "Lỗi xảy ra",
+    "Timeout, no reponse": "Không phản hồi",
+    "Something went wrong" : "Sai thông tin",
+    "Failed to authenticate token.": "Sai token",
+    "Username have already registered":"Tên đã đăng ký",
+    "Missing params":"Thiếu dữ liệu",
+    "Expired to catch this match":"Quá thời gian đặt",
+    "Not enough score":"Không đủ điểm",
+    "Please type right Number Scores":"Vui lòng điền đúng định dạng số",
+    "Scores have to devided it by 50 not include 0":"Điểm phải chia hết cho 50 khác 0",
+    "This pick has been closed":"Không thể thay đổi khi admin đã approved"
+}
